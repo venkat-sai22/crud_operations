@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": 2,
+      "name": "Basa Rohan",
+      "email": "rohanngit@gmail.com",
+      "phone": 7894561235,
+      "address": "jungle"
+    },
+    {
+      "id": 4,
+      "name": "Venkat Sai Kolluri",
+      "email": "venkatsaikolluri@gmail.com",
+      "phone": 1234567890,
+      "address": "H.No: 3-76"
+    },
+    {
+      "id": 6,
+      "name": "abhijeeth",
+      "email": "abhijeeth@gmail.com",
+      "phone": 7894561320,
+      "address": "hyderabad"
+    }
+  ]
+}
